@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2026 by long.day](https://github.com/nnl1704/math-util-2035/actions/workflows/ci-script.yml/badge.svg)](https://github.com/nnl1704/math-util-2035/actions/workflows/ci-script.yml)
 # Welcome to Math Utility
 
 ### You will find in this repo the following stuff:
