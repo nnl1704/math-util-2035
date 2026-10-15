@@ -35,7 +35,7 @@
                     <source>24</source>
                     <target>24</target>
                     <fork>true</fork>
-                    <executable>C:\Program Files\Java\jdk-24\bin\javac.exe</executable>
+                    <executable>C:\Program Files\Java\jdk-25.0.4\bin\javac.exe</executable>
                 </configuration>
             </plugin>
 
@@ -44,7 +44,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.5.4</version>
                 <configuration>
-                    <jvm>C:\Program Files\Java\jdk-24\bin\java.exe</jvm>
+                    <jvm>C:\Program Files\Java\jdk-25.0.4\bin\java.exe</jvm>
                 </configuration>
             </plugin>
 
